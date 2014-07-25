@@ -1,25 +1,16 @@
 {
   "name": "docpad-toy-site",
-  "version": "0.1.0",
-  "description": "Zurb Foundation skeleton for DocPad.",
-  "homepage": "https://github.com/Clearskyabove/zurb-foundation.docpad",
+  "version": "0.0.0",
+  "description": "Toy website build with DocPad.",
   "keywords": [
-    "docpad-skeleton",
     "docpad",
     "website",
-    "bootstrap",
     "zurb foundation"
   ],
-  "author": "Clearskyabove <us@clearskyabove.com> (http://clearskyabove.com)",
-  "maintainers": [
-    "Geert-Jan Brits <geertjan@clearksyabove.com> (https://github.com/gbrits)"
-  ],
-  "bugs": {
-    "url": "https://github.com/Clearskyabove/zurb-foundation.docpad/issues"
-  },
+  "author": "S Morgan Jeffries <s.morgan.jeffries@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Clearskyabove/zurb-foundation.docpad.git"
+    "url": "https://github.com/s-morgan-jeffries/website-docpad-toy.git"
   },
   "engines": {
     "node": "0.10",
